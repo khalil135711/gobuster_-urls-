@@ -1,1 +1,10 @@
-# gobuster_-urls-
+# gobuster_-urls-![Screenshot (157)](https://user-images.githubusercontent.com/89642249/201358507-2379229c-80fc-4080-8b81-45809ed52796.png)
+![Screenshot (158)](https://user-images.githubusercontent.com/89642249/201358610-b58b67d7-cc59-42a1-8df5-e113204d51ae.png)
+![Screenshot (159)](https://user-images.githubusercontent.com/89642249/201358718-30903975-eaad-4085-b744-2c1e66dd224f.png)
+![Screenshot (160)](https://user-images.githubusercontent.com/89642249/201358784-377b4694-90a6-44df-9628-b9a63b2acdad.png)
+![Screenshot (161)](https://user-images.githubusercontent.com/89642249/201358884-4aafc8da-681e-4af6-9b46-1863fb60852b.png)
+![Screenshot (162)](https://user-images.githubusercontent.com/89642249/201358952-d3b9ec88-98c7-4ed1-9019-30a6f00fd42d.png)
+![Screenshot (163)](https://user-images.githubusercontent.com/89642249/201359049-bc109d82-41ad-4b48-b343-c76267440d49.png)
+![Screenshot (164)](https://user-images.githubusercontent.com/89642249/201359109-292b6a05-ae5d-431e-aa01-f4c939029d3a.png)
+![Screenshot (165)](https://user-images.githubusercontent.com/89642249/201359158-7debb0e3-8884-4a9d-98aa-ea8c46db61cf.png)
+![Screenshot (166)](https://user-images.githubusercontent.com/89642249/201359299-6ac30545-2d88-4d93-96ac-4c4063ec15c3.png)
